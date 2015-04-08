@@ -1,2 +1,2 @@
 # tourist-perk
-My first repository in GitHub
+I love to go touring the whole state of California.
