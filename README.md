@@ -1,2 +1,2 @@
-# my Portfolio
+# My Portfolio
 Things about me.
